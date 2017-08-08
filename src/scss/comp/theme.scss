@@ -1,0 +1,201 @@
+/* Scss Document */
+
+/* General Options */
+
+.text-align-center{
+	text-align: center;
+}
+
+.padding-small{
+	padding: 0.75em 0;
+}
+
+.banner{
+	display: flex;
+	background: #809f90; /* Old browsers */
+	background: -moz-linear-gradient(top, #809f90 0%, #cddad3 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #809f90 0%,#cddad3 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #809f90 0%,#cddad3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#809f90', endColorstr='#cddad3',GradientType=0 ); /* IE6-9 */
+	height:70vh;
+	
+	h1{
+		display: flex;
+		justify-content: center;
+		text-align: center;
+		margin:2.5rem 0 1rem 0;
+	}
+	
+	h2{
+		display: flex;
+		justify-content: center;
+		text-align: center;
+		margin-bottom: 2rem;
+	}
+	
+	button{
+		display: flex;
+		background: #50846d;
+		color:white;
+		border:none;
+		padding:1em 5em;
+		margin:0 auto;
+		font-size: 0.65em;
+		text-transform: uppercase;
+		transition: all 0.5s;
+		
+		&:hover{
+			background-color: #386e54;
+		}
+		
+		&:focus{
+			outline:none;
+		}
+	}
+	
+	.cart-icon img{
+		width:50px;
+		height:50px;
+		padding: 1em;
+	}
+}
+
+
+/* Description Section */
+
+	.description-section{
+		padding:5rem;
+	}
+
+/* Product Navigation */
+
+/* Cart Icon */
+
+	.category{
+		background: #61ab8a;
+		padding:1rem 10rem;
+		
+		button{
+			background: #61ab8a;
+			color:white;
+			border:none;
+			font-size: 0.65em;
+			text-transform: uppercase;
+			transition: all 0.5s;
+		
+			&:hover{
+				color: #386e54;
+			}
+			
+			&:focus{
+				outline: none;
+			}
+		}
+	}
+
+/* Product Section */
+
+#content{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.product-item{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+	background-repeat: no-repeat;
+	background-position: top;
+	width:20%;
+	height: 45vh;
+	margin: 2rem 1rem 0 1rem;
+	line-height: 1.5rem;
+	
+	button{
+		background:#61ab8a;
+		color:#fff;
+		font-size:0.5em;
+		text-transform: uppercase;
+		border:none;
+		padding:0.5rem 1.5rem;
+		margin: 1rem 0;
+		transition: all 0.5s;
+		
+		&:hover{
+			background-color: #386e54;
+		}
+		
+		&:focus{
+			outline: none;
+		}
+	}
+}
+
+
+/* Signup Section */
+
+	.signup{
+		background: #303030;
+		padding:5rem;
+	}
+
+	.signup-subtitle{
+		font-family: 'Roboto', sans-serif;
+		font-weight: 100;
+		font-size:0.75em;
+		text-transform: uppercase;
+		padding: 0.75em 0;
+	}
+
+	/* Form */
+
+	.subscribe{
+		margin-top: 2em;
+		width:600px;
+		max-width:100%;
+		padding:0.25em 0.75em;
+		background: #fff;
+		border-radius:35px;
+	}
+
+	.subscribe-input-email > input[type=text] {
+		background: rgba(255,255,255,0);
+		border:none;
+		font-size:0.75em;
+		padding:0 1em 0 1.5em;
+		width:22em;
+	}
+
+	.subscribe-input-email > input[type=text]:focus {
+		outline-color: transparent;
+		outline-style: none;
+	}
+
+	.button > input[type=submit]{
+		background-color: #50846d;
+		border-style: none;
+		border-radius: 0 50px 50px 0;
+		font-size:0.65em;
+		text-transform: uppercase;
+		color:#fff;
+		padding:0.5em 3.5em;
+		transition: all 0.5s;
+	}
+
+		.button > input[type=submit]:focus{
+			outline-color: transparent;
+			outline-style: none;
+		}
+
+	.button > input[type=submit]:hover{
+		background-color: #386e54;
+	}
+
+
+
+
+

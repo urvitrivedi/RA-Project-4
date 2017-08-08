@@ -1,0 +1,2676 @@
+{
+  "from": 1,
+  "to": 10,
+  "currentPage": 1,
+  "total": 1134,
+  "totalPages": 114,
+  "queryTime": "0.009",
+  "totalTime": "0.080",
+  "partial": false,
+  "canonicalUrl": "/v1/products((categoryPath.id=abcat0502000))?format=json&apiKey=8ccddf4rtjz5k5btqam84qak",
+  "products": [
+    {
+      "sku": 1475099,
+      "score": null,
+      "productId": 1219498405393,
+      "name": "Asus - 13.3\" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory - Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2014-12-07",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2017-06-03T03:23:44",
+      "regularPrice": 279.99,
+      "salePrice": 279.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-06-11T00:02:08",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 1475071
+        },
+        {
+          "sku": 7686293
+        },
+        {
+          "sku": 8790147
+        },
+        {
+          "sku": 7012041
+        },
+        {
+          "sku": 1169043
+        },
+        {
+          "sku": 6314082
+        },
+        {
+          "sku": 4115109
+        },
+        {
+          "sku": 4020462
+        },
+        {
+          "sku": 5875054
+        },
+        {
+          "sku": 4799026
+        },
+        {
+          "sku": 4699045
+        },
+        {
+          "sku": 4103018
+        },
+        {
+          "sku": 4495014
+        },
+        {
+          "sku": 7457047
+        },
+        {
+          "sku": 7851003
+        },
+        {
+          "sku": 4262900
+        },
+        {
+          "sku": 4278800
+        },
+        {
+          "sku": 9240075
+        },
+        {
+          "sku": 6497029
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": 40439,
+      "salesRankLongTerm": 121762,
+      "bestSellingRank": 64739,
+      "url": "https://api.bestbuy.com/click/-/1475099/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/1475099/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/1475099/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "886227904297",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat244900050010",
+          "name": "Chromebooks"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 4,
+      "customerReviewAverage": 4.5,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup: Not Available",
+      "inStoreAvailabilityUpdateDate": "2017-07-12T04:30:27",
+      "itemUpdateDate": "2017-07-31T08:11:26",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-06-13T16:19:15",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Chrome OSTechnical details: Intel&#174; Celeron&#174; processor; 13.3\" display; 4GB memory; 16GB eMMC flash memorySpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO LAPTOPS",
+      "subclassId": 122,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "C30",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Asus",
+      "modelNumber": "C300MADH02",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/1475/1475099_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/1475/1475099_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/1475/1475099fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/1475/1475099_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/1475/1475099_sb.jpg",
+      "alternateViewsImage": "https://img.bbystatic.com/BestBuy_US/images/products/1475/1475099cv11a.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "13.3\" Chromebook - Intel Celeron - 4GB Memory - 16GB eMMC Flash Memory",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Black",
+      "depth": "9.1 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.9 inches",
+      "orderable": "Available",
+      "weight": "3.1 pounds",
+      "shippingWeight": 5.1,
+      "width": "13 inches",
+      "warrantyLabor": "1 year",
+      "warrantyParts": "1 year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "With wireless-AC connectivity and weighing just 3.1 lbs., this lightweight Asus C300MADH02 Chromebook promotes on-the-go productivity. The Intel&#174; Celeron&#174; processor delivers reliability for everyday mobile computing.",
+      "includedItemList": [
+        {
+          "includedItem": "13.3\" Chromebook - Intel Celeron - 4GB Memory"
+        },
+        {
+          "includedItem": "3-cell lithium-ion polymer battery"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "Other",
+      "driveCapacityGb": 16,
+      "energyStarQualified": false,
+      "hdmiOutputs": 1,
+      "mobileOperatingSystem": "Chrome OS",
+      "screenSizeIn": 13.3,
+      "usbPort": true
+    },
+    {
+      "sku": 1738035,
+      "score": null,
+      "productId": 1219509173920,
+      "name": "Dell - Latitude 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive - Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2016-10-30",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2017-03-02T02:12:15",
+      "regularPrice": 269.99,
+      "salePrice": 269.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-02T02:12:15",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 1738736
+        },
+        {
+          "sku": 1738754
+        },
+        {
+          "sku": 1738727
+        },
+        {
+          "sku": 1738438
+        },
+        {
+          "sku": 1738772
+        },
+        {
+          "sku": 5009336
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 1647079
+        },
+        {
+          "sku": 5009268
+        },
+        {
+          "sku": 5009295
+        },
+        {
+          "sku": 5009222
+        },
+        {
+          "sku": 5365013
+        },
+        {
+          "sku": 4226016
+        },
+        {
+          "sku": 6685495
+        },
+        {
+          "sku": 8965017
+        },
+        {
+          "sku": 4928044
+        },
+        {
+          "sku": 5009277
+        },
+        {
+          "sku": 7574145
+        },
+        {
+          "sku": 5043001
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/1738035/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/1738035/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/1738035/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "812177024433",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat219300050014",
+          "name": "Refurbished Laptops"
+        }
+      ],
+      "alternateCategories": [
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "lists": [],
+      "customerReviewCount": 1,
+      "customerReviewAverage": 1,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": false,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2017-03-02T02:12:15",
+      "itemUpdateDate": "2017-07-27T00:16:33",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-03-02T02:12:15",
+      "releaseDate": null,
+      "shippingCost": "",
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Refurbished\nTechnical details: Intel&#174; Core&#8482; i5 processor; 14\" display; 4GB memory; 160GB hard driveSpecial features: Bluetooth",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO RFRB LAPTOPS",
+      "subclassId": 181,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "DEL",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Dell",
+      "modelNumber": "E6410-B4L",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738035_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738035_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738035fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738035_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738035_sb.jpg",
+      "alternateViewsImage": null,
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Latitude 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "Refurbished",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Black",
+      "depth": "9.4 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.4 inches",
+      "orderable": "Available",
+      "weight": "4.26 pounds",
+      "shippingWeight": 7,
+      "width": "13.2 inches",
+      "warrantyLabor": "Lifetime",
+      "warrantyParts": "Lifetime",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Enjoy movies, photos and Web content in crisp detail with this Dell Latitude E6410-B4L laptop, which features a 14\" LCD with 1280 x 800 resolution for sharp images. Bluetooth technology enables simple wireless connection to compatible devices.    This product has been refurbished.  Learn more.",
+      "includedItemList": [
+        {
+          "includedItem": "Latitude 14\" Refurbished Laptop - Intel Core i5"
+        },
+        {
+          "includedItem": "6-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": true,
+      "displayType": "LCD",
+      "driveCapacityGb": 160,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "mobileOperatingSystem": "Windows 7 Home",
+      "screenSizeIn": 14,
+      "usbPort": true
+    },
+    {
+      "sku": 1738727,
+      "score": null,
+      "productId": 1219509170607,
+      "name": "HP - Elitebook 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2014-12-15",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2017-03-09T05:15:20",
+      "regularPrice": 226.99,
+      "salePrice": 226.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-09T05:15:20",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 1738754
+        },
+        {
+          "sku": 1738736
+        },
+        {
+          "sku": 1738772
+        },
+        {
+          "sku": 1738438
+        },
+        {
+          "sku": 1738035
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 4226016
+        },
+        {
+          "sku": 9913192
+        },
+        {
+          "sku": 5009336
+        },
+        {
+          "sku": 5009295
+        },
+        {
+          "sku": 7574145
+        },
+        {
+          "sku": 8528529
+        },
+        {
+          "sku": 5134232
+        },
+        {
+          "sku": 9695143
+        },
+        {
+          "sku": 5009268
+        },
+        {
+          "sku": 6804123
+        },
+        {
+          "sku": 6511001
+        },
+        {
+          "sku": 8412404
+        },
+        {
+          "sku": 4003046
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/1738727/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/1738727/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/1738727/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "812177024419",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat219300050014",
+          "name": "Refurbished Laptops"
+        }
+      ],
+      "alternateCategories": [
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "lists": [],
+      "customerReviewCount": 2,
+      "customerReviewAverage": 1,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": false,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2017-03-09T05:15:20",
+      "itemUpdateDate": "2017-07-27T00:12:27",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-03-09T05:15:20",
+      "releaseDate": null,
+      "shippingCost": "",
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "RefurbishedTechnical details: 2nd Gen Intel&#174; Core&#8482; i5 processor; 14\" display; 4GB memory; 500GB hard driveSpecial features: Webcam not included",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO RFRB LAPTOPS",
+      "subclassId": 181,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "HP ",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "HP",
+      "modelNumber": "8440P-4GB-500GB",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738727_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738727_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738727fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738727_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738727_sb.jpg",
+      "alternateViewsImage": null,
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Elitebook 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "Refurbished",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Black",
+      "depth": "9.3 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.23 inches",
+      "orderable": "Available",
+      "weight": "4.7 pounds",
+      "shippingWeight": 7,
+      "width": "13.21 inches",
+      "warrantyLabor": "18 months limited",
+      "warrantyParts": "18 months",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Take important files on the go with this 14\" HP Elitebook 8440p-4gb-500gb laptop, which features a 500GB hard drive that provides ample space to house pictures, videos, music and more. Built-in wireless networking lets you connect to the Web.    This product has been refurbished.  Learn more.",
+      "includedItemList": [
+        {
+          "includedItem": "Elitebook 14\" Refurbished Laptop"
+        },
+        {
+          "includedItem": "6-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": false,
+      "displayType": "Other",
+      "driveCapacityGb": 500,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 0,
+      "mobileOperatingSystem": "Windows 7 Home",
+      "screenSizeIn": 14,
+      "usbPort": true
+    },
+    {
+      "sku": 1738736,
+      "score": null,
+      "productId": 1219509174962,
+      "name": "Dell - Latitude 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive - Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2016-10-30",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2017-03-09T02:59:24",
+      "regularPrice": 226.99,
+      "salePrice": 226.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-09T02:59:24",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 1738727
+        },
+        {
+          "sku": 1738438
+        },
+        {
+          "sku": 1738035
+        },
+        {
+          "sku": 1738754
+        },
+        {
+          "sku": 1738772
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 4226016
+        },
+        {
+          "sku": 5009336
+        },
+        {
+          "sku": 5009268
+        },
+        {
+          "sku": 5009295
+        },
+        {
+          "sku": 5009222
+        },
+        {
+          "sku": 6804123
+        },
+        {
+          "sku": 1647079
+        },
+        {
+          "sku": 5009204
+        },
+        {
+          "sku": 5009327
+        },
+        {
+          "sku": 5365013
+        },
+        {
+          "sku": 4928044
+        },
+        {
+          "sku": 3463056
+        },
+        {
+          "sku": 5009277
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 99508,
+      "bestSellingRank": 102776,
+      "url": "https://api.bestbuy.com/click/-/1738736/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/1738736/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/1738736/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "812177024440",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat219300050014",
+          "name": "Refurbished Laptops"
+        }
+      ],
+      "alternateCategories": [
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "lists": [],
+      "customerReviewCount": 4,
+      "customerReviewAverage": 2,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": false,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2017-03-09T02:59:24",
+      "itemUpdateDate": "2017-07-31T08:09:30",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-03-09T02:59:24",
+      "releaseDate": null,
+      "shippingCost": "",
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "RefurbishedTechnical details: Intel&#174; Core&#8482; i5 processor; 14\" display; 4GB memory; 500GB hard driveSpecial features: Bluetooth",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO RFRB LAPTOPS",
+      "subclassId": 181,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "DEL",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Dell",
+      "modelNumber": "E6410-4GB-500GB",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738736_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738736_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738736fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738736_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738736_sb.jpg",
+      "alternateViewsImage": null,
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Latitude 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 500GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "Refurbished",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Black",
+      "depth": "9.4 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.4 inches",
+      "orderable": "Available",
+      "weight": "4.26 pounds",
+      "shippingWeight": 7,
+      "width": "13.2 inches",
+      "warrantyLabor": "18 months limited",
+      "warrantyParts": "18 months",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Take your media collection on the go with this 14\" Dell Latitude E6410-4GB-500GB laptop, which features a 500GB hard drive that offers plenty of space to house pictures, videos and more. A Bluetooth interface allows wireless pairing with select devices.    This product has been refurbished.  Learn more.",
+      "includedItemList": [
+        {
+          "includedItem": "Latitude 14\" Refurbished Laptop"
+        },
+        {
+          "includedItem": "6-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": true,
+      "displayType": "Other",
+      "driveCapacityGb": 500,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 0,
+      "mobileOperatingSystem": "Windows 7 Home Premium",
+      "screenSizeIn": 14,
+      "usbPort": true
+    },
+    {
+      "sku": 1738754,
+      "score": null,
+      "productId": 1219509172730,
+      "name": "HP - Elitebook 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive - Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2014-12-15",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2017-03-09T03:18:43",
+      "regularPrice": 204.99,
+      "salePrice": 204.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-09T03:18:43",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 1738727
+        },
+        {
+          "sku": 1647079
+        },
+        {
+          "sku": 1738736
+        },
+        {
+          "sku": 1738772
+        },
+        {
+          "sku": 1738438
+        },
+        {
+          "sku": 1738035
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 4226016
+        },
+        {
+          "sku": 9913192
+        },
+        {
+          "sku": 5009336
+        },
+        {
+          "sku": 6804123
+        },
+        {
+          "sku": 5009295
+        },
+        {
+          "sku": 7574145
+        },
+        {
+          "sku": 8528529
+        },
+        {
+          "sku": 9695143
+        },
+        {
+          "sku": 5134232
+        },
+        {
+          "sku": 8412404
+        },
+        {
+          "sku": 5009268
+        },
+        {
+          "sku": 6511001
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 67068,
+      "bestSellingRank": 72427,
+      "url": "https://api.bestbuy.com/click/-/1738754/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/1738754/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/1738754/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "812177024402",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat219300050014",
+          "name": "Refurbished Laptops"
+        }
+      ],
+      "alternateCategories": [
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "lists": [],
+      "customerReviewCount": 11,
+      "customerReviewAverage": 3.1,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2017-03-09T03:18:43",
+      "itemUpdateDate": "2017-07-31T08:07:18",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-06-23T11:46:38",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "RefurbishedTechnical details: 2nd Gen Intel&#174; Core&#8482; i5 processor; 14\" display; 4GB memory; 160GB hard driveSpecial features: Webcam not included",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO RFRB LAPTOPS",
+      "subclassId": 181,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "HP ",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "HP",
+      "modelNumber": "8440P",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738754_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738754_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738754fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738754_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738754_sb.jpg",
+      "alternateViewsImage": null,
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Elitebook 14\" Refurbished Laptop - Intel Core i5 - 4GB Memory - 160GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "Refurbished",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Black",
+      "depth": "9.3 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.23 inches",
+      "orderable": "Available",
+      "weight": "4.7 pounds",
+      "shippingWeight": 7,
+      "width": "13.21 inches",
+      "warrantyLabor": "18 months limited",
+      "warrantyParts": "18 months",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "This HP Elitebook 8440p laptop's 14\" display presents visuals in 1366 x 768 resolution, so you can view your media in sharp detail. The 160GB hard drive provides room to store pictures, videos, music and more.    This product has been refurbished.  Learn more.",
+      "includedItemList": [
+        {
+          "includedItem": "Elitebook 14\" Refurbished Laptop"
+        },
+        {
+          "includedItem": "6-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": false,
+      "displayType": "Other",
+      "driveCapacityGb": 160,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 0,
+      "mobileOperatingSystem": "Windows 7 Home",
+      "screenSizeIn": 14,
+      "usbPort": true
+    },
+    {
+      "sku": 1738772,
+      "score": null,
+      "productId": 1219509177353,
+      "name": "Dell - Latitude 14\" Refurbished Laptop - Intel Core 2 Duo - 2GB Memory - 160GB Hard Drive - Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2014-12-15",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": false,
+      "activeUpdateDate": "2017-03-09T03:25:59",
+      "regularPrice": 194.99,
+      "salePrice": 194.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-09T03:25:59",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 1738438
+        },
+        {
+          "sku": 1738736
+        },
+        {
+          "sku": 1738754
+        },
+        {
+          "sku": 1738727
+        },
+        {
+          "sku": 1738035
+        },
+        {
+          "sku": 4226016
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 6804123
+        },
+        {
+          "sku": 5009268
+        },
+        {
+          "sku": 5009295
+        },
+        {
+          "sku": 5009336
+        },
+        {
+          "sku": 9498142
+        },
+        {
+          "sku": 9913192
+        },
+        {
+          "sku": 8528529
+        },
+        {
+          "sku": 8210032
+        },
+        {
+          "sku": 4226025
+        },
+        {
+          "sku": 6685495
+        },
+        {
+          "sku": 5419215
+        },
+        {
+          "sku": 7574145
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": null,
+      "bestSellingRank": null,
+      "url": "https://api.bestbuy.com/click/-/1738772/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/1738772/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/1738772/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "812177024426",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat219300050014",
+          "name": "Refurbished Laptops"
+        }
+      ],
+      "alternateCategories": [
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "lists": [],
+      "customerReviewCount": 2,
+      "customerReviewAverage": 1.5,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": false,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup:",
+      "inStoreAvailabilityUpdateDate": "2017-03-09T03:25:59",
+      "itemUpdateDate": "2017-07-27T00:07:06",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-03-09T03:25:59",
+      "releaseDate": null,
+      "shippingCost": "",
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "RefurbishedTechnical details: Intel&#174; Core&#8482;2 Duo processor; 14\" display; 2GB memory; 160GB hard driveSpecial features: Bluetooth",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO RFRB LAPTOPS",
+      "subclassId": 181,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "DEL",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Dell",
+      "modelNumber": "E6400-B4L",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738772_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738772_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738772fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738772_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/1738/1738772_sb.jpg",
+      "alternateViewsImage": null,
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Latitude 14\" Refurbished Laptop - Intel Core 2 Duo - 2GB Memory - 160GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "Refurbished",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Black",
+      "depth": "9.37 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.3 inches",
+      "orderable": "Available",
+      "weight": "4.3 pounds",
+      "shippingWeight": 7,
+      "width": "13.1 inches",
+      "warrantyLabor": "Lifetime",
+      "warrantyParts": "Lifetime",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "This 14\" Dell Latitude E6400-B4L laptop's Bluetooth interface allows you to wirelessly pair with select devices. Intel&#174; Core&#8482;2 Duo processor provides advanced dual-core multitasking with breakthrough power efficiency.    This product has been refurbished.  Learn more.",
+      "includedItemList": [
+        {
+          "includedItem": "Latitude 14\" Refurbished Laptop"
+        },
+        {
+          "includedItem": "6-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": true,
+      "displayType": "Other",
+      "driveCapacityGb": 160,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 0,
+      "mobileOperatingSystem": "Windows 7 Home",
+      "screenSizeIn": 14,
+      "usbPort": true
+    },
+    {
+      "sku": 2108021,
+      "score": null,
+      "productId": 1219528553337,
+      "name": "Toshiba - Satellite 15.6\" Laptop - Intel Core i3 - 4GB Memory - 500GB Hard Drive - Jet Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2015-03-04",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2017-06-03T03:24:04",
+      "regularPrice": 459.99,
+      "salePrice": 459.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-08T01:49:36",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 2901011
+        },
+        {
+          "sku": 5346014
+        },
+        {
+          "sku": 4803039
+        },
+        {
+          "sku": 4356815
+        },
+        {
+          "sku": 6804123
+        },
+        {
+          "sku": 4351411
+        },
+        {
+          "sku": 4352500
+        },
+        {
+          "sku": 8963064
+        },
+        {
+          "sku": 8965017
+        },
+        {
+          "sku": 8768025
+        },
+        {
+          "sku": 3953816
+        },
+        {
+          "sku": 9498142
+        },
+        {
+          "sku": 8749654
+        },
+        {
+          "sku": 4227015
+        },
+        {
+          "sku": 4226025
+        },
+        {
+          "sku": 5134232
+        },
+        {
+          "sku": 9508456
+        },
+        {
+          "sku": 7496011
+        },
+        {
+          "sku": 3510954
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 109818,
+      "bestSellingRank": 112648,
+      "url": "https://api.bestbuy.com/click/-/2108021/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/2108021/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/2108021/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "022265879719",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 9,
+      "customerReviewAverage": 1.7,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": false,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup: Not Available",
+      "inStoreAvailabilityUpdateDate": "2017-07-12T04:30:30",
+      "itemUpdateDate": "2017-07-31T08:15:06",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-03-08T01:49:36",
+      "releaseDate": null,
+      "shippingCost": "",
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Windows 8.1 64-bitTechnical details: 4th Gen Intel&#174; Core&#8482; i3 processor; 15.6\" display; 4GB memory; 500GB hard driveSpecial features: Bluetooth; HDMI output",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO LAPTOPS",
+      "subclassId": 122,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "TOS",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Toshiba",
+      "modelNumber": "C55-B5355",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/2108/2108021_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/2108/2108021_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/2108/2108021fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/2108/2108021_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/2108/2108021_sb.jpg",
+      "alternateViewsImage": "https://img.bbystatic.com/BestBuy_US/images/products/2108/2108021cv11a.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Satellite 15.6\" Laptop - Intel Core i3 - 4GB Memory - 500GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Jet Black",
+      "depth": "10.2 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.05 inches",
+      "orderable": "Available",
+      "weight": "4.85 pounds",
+      "shippingWeight": 6.2,
+      "width": "14.96 inches",
+      "warrantyLabor": "None",
+      "warrantyParts": "1 year limited",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Enjoy movies and more with this Toshiba Satellite C55-B5355 laptop, which features a 15.6\" LED-backlit display with 1366 x 768 resolution for a crisp view of high-definition content. Bluetooth 4.0 makes it easy to connect to compatible mobile devices.  Learn more about the New Windows",
+      "includedItemList": [
+        {
+          "includedItem": "Satellite 15.6\" Laptop - Intel Core i3"
+        },
+        {
+          "includedItem": "4-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "45W AC adapter"
+        },
+        {
+          "includedItem": "Software: Adobe Reader and more"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": true,
+      "displayType": "LED",
+      "driveCapacityGb": 500,
+      "energyStarQualified": false,
+      "hdmiOutputs": 1,
+      "mobileOperatingSystem": "Windows 8.1",
+      "screenSizeIn": 15.6,
+      "usbPort": true
+    },
+    {
+      "sku": 2302025,
+      "score": null,
+      "productId": 1219535627184,
+      "name": "Acer - Aspire 11.6\" - Intel Pentium - 4GB Memory - 500GB Hard Drive - Silver",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2015-05-25",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2017-06-03T22:45:53",
+      "regularPrice": 299.99,
+      "salePrice": 299.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-10T18:59:11",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 6356145
+        },
+        {
+          "sku": 7875018
+        },
+        {
+          "sku": 4086122
+        },
+        {
+          "sku": 9925646
+        },
+        {
+          "sku": 9508581
+        },
+        {
+          "sku": 8568018
+        },
+        {
+          "sku": 9508518
+        },
+        {
+          "sku": 5009295
+        },
+        {
+          "sku": 6685495
+        },
+        {
+          "sku": 9159011
+        },
+        {
+          "sku": 7523252
+        },
+        {
+          "sku": 2664118
+        },
+        {
+          "sku": 5009204
+        },
+        {
+          "sku": 4226025
+        },
+        {
+          "sku": 9463225
+        },
+        {
+          "sku": 9497125
+        },
+        {
+          "sku": 8094273
+        },
+        {
+          "sku": 5365013
+        },
+        {
+          "sku": 5782049
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 74445,
+      "bestSellingRank": 79263,
+      "url": "https://api.bestbuy.com/click/-/2302025/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/2302025/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/2302025/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "887899655234",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 4,
+      "customerReviewAverage": 3.3,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": false,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup: Not Available",
+      "inStoreAvailabilityUpdateDate": "2017-07-12T04:30:30",
+      "itemUpdateDate": "2017-07-31T08:02:20",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-06-04T13:26:55",
+      "releaseDate": null,
+      "shippingCost": "",
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Windows 7, upgrade to Windows 10 for freeTechnical details: Intel&#174; Pentium&#174; processor; 11.6\" display; 4GB memory; 500GB hard driveSpecial features: Bluetooth; HDMI outputNote: DVD/CD drive not included",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO LAPTOPS",
+      "subclassId": 122,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "E31",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Acer",
+      "modelNumber": "E3111P60S",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/2302/2302025_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/2302/2302025_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/2302/2302025fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/2302/2302025_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/2302/2302025_sb.jpg",
+      "alternateViewsImage": "https://img.bbystatic.com/BestBuy_US/images/products/2302/2302025cv11a.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "Aspire 11.6\" - Intel Pentium - 4GB Memory - 500GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Silver",
+      "depth": "8.3 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "0.83 inches",
+      "orderable": "Available",
+      "weight": "3.06 pounds",
+      "shippingWeight": 4.2,
+      "width": "11.5 inches",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year limited",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Acer Aspire Laptop: Dual-band wireless Web access lets you check sports scores, stream an episode of your favorite show or listen to Internet Radio at home or on the go. The 500GB hard drive provides space for storing your digital media library.",
+      "includedItemList": [
+        {
+          "includedItem": "Aspire 11.6\" - Intel Pentium - 4GB Memory"
+        },
+        {
+          "includedItem": "4-cell lithium-ion (3220 mAh)"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "displayType": "LED-LCD",
+      "driveCapacityGb": 500,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 1,
+      "mobileOperatingSystem": "Windows 7 Home Premium",
+      "screenSizeIn": 11.6,
+      "usbPort": true
+    },
+    {
+      "sku": 2783319,
+      "score": null,
+      "productId": 1219558787387,
+      "name": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Revolutionary Blue",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2015-02-01",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2017-06-03T03:24:04",
+      "regularPrice": 449.99,
+      "salePrice": 449.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-08T15:28:59",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 2783391
+        },
+        {
+          "sku": 4327412
+        },
+        {
+          "sku": 5552032
+        },
+        {
+          "sku": 5552041
+        },
+        {
+          "sku": 8166023
+        },
+        {
+          "sku": 4221508
+        },
+        {
+          "sku": 4285005
+        },
+        {
+          "sku": 8795421
+        },
+        {
+          "sku": 1948011
+        },
+        {
+          "sku": 3464115
+        },
+        {
+          "sku": 8749654
+        },
+        {
+          "sku": 8088013
+        },
+        {
+          "sku": 4227800
+        },
+        {
+          "sku": 2996026
+        },
+        {
+          "sku": 2783346
+        },
+        {
+          "sku": 9508581
+        },
+        {
+          "sku": 8795398
+        },
+        {
+          "sku": 9926636
+        },
+        {
+          "sku": 9568036
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 102950,
+      "bestSellingRank": 106083,
+      "url": "https://api.bestbuy.com/click/-/2783319/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/2783319/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/2783319/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "889296134060",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 4,
+      "customerReviewAverage": 4,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup: Not Available",
+      "inStoreAvailabilityUpdateDate": "2017-07-12T04:30:28",
+      "itemUpdateDate": "2017-07-31T08:06:39",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-06-05T12:57:49",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Windows 8.1, upgrade to Windows 10 for freeTechnical details: AMD A6-Series processor; 15.6\" display; 4GB memory; 500GB hard driveSpecial features: Bluetooth; HDMI output",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO LAPTOPS",
+      "subclassId": 122,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "HP ",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "HP",
+      "modelNumber": "15-G275NR",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783319_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783319_sb.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783319fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783319_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783319_sb.jpg",
+      "alternateViewsImage": "https://img.bbystatic.com/BestBuy_US/images/products/2783/2783319cv11a.jpg",
+      "angleImage": null,
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": null,
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": false,
+      "homeDelivery": false,
+      "quantityLimit": 3,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Revolutionary Blue",
+      "depth": "10.2 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1 inches",
+      "orderable": "Available",
+      "weight": "4.83 pounds",
+      "shippingWeight": 6.81,
+      "width": "14.88 inches",
+      "warrantyLabor": "1 year limited",
+      "warrantyParts": "1 year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Surf the Web with this HP 15-g275nr laptop, which features a full-size, island-style keyboard with a numeric keypad for ease of use. The 15.6\" WLED-backlit screen features BrightView technology for clear, detailed images.",
+      "includedItemList": [
+        {
+          "includedItem": "15.6\" Laptop AMD A6-Series 4GB Memory 500GB HDD"
+        },
+        {
+          "includedItem": "Software: mySMS text messaging, Foxit PhantomPDF"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluetoothEnabled": true,
+      "displayType": "Other",
+      "driveCapacityGb": 500,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 1,
+      "mobileOperatingSystem": "Windows 8.1",
+      "screenSizeIn": 15.6,
+      "usbPort": true
+    },
+    {
+      "sku": 3068028,
+      "score": null,
+      "productId": 1219570106006,
+      "name": "Lenovo - ThinkPad 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Graphite Black",
+      "source": "bestbuy",
+      "type": "HardGood",
+      "startDate": "2015-06-04",
+      "new": false,
+      "active": true,
+      "lowPriceGuarantee": true,
+      "activeUpdateDate": "2017-06-03T03:23:37",
+      "regularPrice": 543.99,
+      "salePrice": 543.99,
+      "clearance": false,
+      "onSale": false,
+      "planPrice": null,
+      "priceWithPlan": [],
+      "priceRestriction": null,
+      "priceUpdateDate": "2017-03-10T18:58:02",
+      "digital": false,
+      "preowned": false,
+      "carriers": [],
+      "planFeatures": [],
+      "devices": [],
+      "carrierPlans": [],
+      "technologyCode": null,
+      "carrierModelNumber": null,
+      "earlyTerminationFees": [],
+      "monthlyRecurringCharge": "",
+      "monthlyRecurringChargeGrandTotal": "",
+      "activationCharge": "",
+      "minutePrice": "",
+      "planCategory": null,
+      "planType": null,
+      "familyIndividualCode": null,
+      "validFrom": null,
+      "validUntil": null,
+      "carrierPlan": null,
+      "outletCenter": null,
+      "secondaryMarket": null,
+      "frequentlyPurchasedWith": [],
+      "accessories": [],
+      "relatedProducts": [
+        {
+          "sku": 3767059
+        },
+        {
+          "sku": 4003046
+        },
+        {
+          "sku": 9926636
+        },
+        {
+          "sku": 7574145
+        },
+        {
+          "sku": 8528529
+        },
+        {
+          "sku": 6511001
+        },
+        {
+          "sku": 9508581
+        },
+        {
+          "sku": 7574172
+        },
+        {
+          "sku": 8088013
+        },
+        {
+          "sku": 1948011
+        },
+        {
+          "sku": 7523252
+        },
+        {
+          "sku": 2664118
+        },
+        {
+          "sku": 4743006
+        },
+        {
+          "sku": 2901011
+        },
+        {
+          "sku": 4351434
+        },
+        {
+          "sku": 7496011
+        },
+        {
+          "sku": 9695143
+        },
+        {
+          "sku": 5053018
+        },
+        {
+          "sku": 4356815
+        }
+      ],
+      "techSupportPlans": [],
+      "crossSell": [],
+      "salesRankShortTerm": null,
+      "salesRankMediumTerm": null,
+      "salesRankLongTerm": 53950,
+      "bestSellingRank": 59331,
+      "url": "https://api.bestbuy.com/click/-/3068028/pdp",
+      "spin360Url": null,
+      "mobileUrl": "https://api.bestbuy.com/click/-/3068028/pdp",
+      "affiliateUrl": null,
+      "addToCartUrl": "https://api.bestbuy.com/click/-/3068028/cart",
+      "affiliateAddToCartUrl": null,
+      "linkShareAffiliateUrl": "",
+      "linkShareAffiliateAddToCartUrl": "",
+      "upc": "889233225950",
+      "productTemplate": "Laptop_Computers",
+      "categoryPath": [
+        {
+          "id": "cat00000",
+          "name": "Best Buy"
+        },
+        {
+          "id": "abcat0500000",
+          "name": "Computers & Tablets"
+        },
+        {
+          "id": "abcat0502000",
+          "name": "Laptops"
+        },
+        {
+          "id": "pcmcat138500050001",
+          "name": "All Laptops"
+        },
+        {
+          "id": "pcmcat247400050000",
+          "name": "PC Laptops"
+        }
+      ],
+      "alternateCategories": [],
+      "lists": [],
+      "customerReviewCount": 4,
+      "customerReviewAverage": 3.8,
+      "customerTopRated": false,
+      "format": null,
+      "freeShipping": true,
+      "freeShippingEligible": false,
+      "inStoreAvailability": true,
+      "inStoreAvailabilityText": "Store Pickup: Not Available",
+      "inStoreAvailabilityUpdateDate": "2017-07-27T04:30:23",
+      "itemUpdateDate": "2017-07-31T08:03:02",
+      "onlineAvailability": false,
+      "onlineAvailabilityText": "Shipping: Not Available",
+      "onlineAvailabilityUpdateDate": "2017-06-23T00:21:15",
+      "releaseDate": null,
+      "shippingCost": 0,
+      "shipping": [],
+      "shippingLevelsOfService": [],
+      "specialOrder": false,
+      "shortDescription": "Windows 7 Professional 64-bitTechnical details: AMD A6-Series processor; 15.6\" display; 4GB memory; 500GB hard driveSpecial features: Bluetooth; spill-resistant keyboard; HDMI output",
+      "class": "MOBILE COMPUTING",
+      "classId": 140,
+      "subclass": "SO COMM LAPTOPS",
+      "subclassId": 123,
+      "department": "COMPUTERS",
+      "departmentId": 6,
+      "protectionPlanTerm": "LEN",
+      "protectionPlanType": null,
+      "protectionPlanLowPrice": "",
+      "protectionPlanHighPrice": "",
+      "buybackPlans": [],
+      "protectionPlans": [],
+      "protectionPlanDetails": [],
+      "productFamilies": [],
+      "aspectRatio": null,
+      "screenFormat": null,
+      "lengthInMinutes": null,
+      "mpaaRating": null,
+      "plot": null,
+      "studio": null,
+      "theatricalReleaseDate": null,
+      "description": null,
+      "manufacturer": "Lenovo",
+      "modelNumber": "20DH002QUS",
+      "image": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028_sa.jpg",
+      "largeFrontImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028_sd.jpg",
+      "mediumImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028fp.gif",
+      "thumbnailImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028_s.gif",
+      "largeImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028_sb.jpg",
+      "alternateViewsImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028cv19a.jpg",
+      "angleImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028_ra.jpg",
+      "backViewImage": null,
+      "energyGuideImage": null,
+      "leftViewImage": "https://img.bbystatic.com/BestBuy_US/images/products/3068/3068028le.jpg",
+      "accessoriesImage": null,
+      "remoteControlImage": null,
+      "rightViewImage": null,
+      "topViewImage": null,
+      "albumTitle": "ThinkPad 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive",
+      "artistName": null,
+      "artistId": null,
+      "originalReleaseDate": null,
+      "parentalAdvisory": null,
+      "mediaCount": null,
+      "monoStereo": null,
+      "studioLive": null,
+      "condition": "New",
+      "inStorePickup": true,
+      "friendsAndFamilyPickup": true,
+      "homeDelivery": false,
+      "quantityLimit": null,
+      "fulfilledBy": "BestBuy.com",
+      "members": [],
+      "bundledIn": [],
+      "albumLabel": null,
+      "genre": null,
+      "color": "Graphite Black",
+      "depth": "10 inches",
+      "dollarSavings": 0,
+      "percentSavings": "0.0",
+      "tradeInValue": "",
+      "height": "1.1 inches",
+      "orderable": "Available",
+      "weight": "5.2 pounds",
+      "shippingWeight": 7.7,
+      "width": "14.8 inches",
+      "warrantyLabor": "1 year",
+      "warrantyParts": "1 year",
+      "softwareAge": null,
+      "softwareGrade": null,
+      "platform": null,
+      "numberOfPlayers": null,
+      "softwareNumberOfPlayers": null,
+      "esrbRating": null,
+      "longDescription": "Lenovo ThinkPad Laptop: Enjoy a 15.6\" laptop that's built to withstand everyday wear and tear with a spill-resistant keyboard, roll-cage technology and shock-mounted 500GB hard drive. Connect to an external high-definition display via the HDMI output.",
+      "includedItemList": [
+        {
+          "includedItem": "ThinkPad 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive"
+        },
+        {
+          "includedItem": "6-cell lithium-ion battery"
+        },
+        {
+          "includedItem": "AC adapter"
+        },
+        {
+          "includedItem": "Owner's manual"
+        }
+      ],
+      "marketplace": false,
+      "listingId": null,
+      "sellerId": null,
+      "shippingRestrictions": null,
+      "bluRayPlayer": false,
+      "bluetoothEnabled": true,
+      "collection": "Business Series",
+      "displayType": "LED-LCD",
+      "driveCapacityGb": 500,
+      "energyStarQualified": false,
+      "ethernetPort": true,
+      "hdmiOutputs": 1,
+      "mobileOperatingSystem": "Windows 7 Professional",
+      "screenSizeIn": 15.6,
+      "usbPort": true
+    }
+  ]
+}

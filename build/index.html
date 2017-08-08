@@ -1,0 +1,102 @@
+<!doctype html>
+   <html>
+    <head>
+        <title>Babel Test</title>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    </head>
+    <body>
+        <!--<h2>Testing ES6 + Babel</h2>-->
+        <!--<b>Name :</b> <span id="nameSpan"></span>-->
+        
+<!--
+			<ul id="category">
+				<li class="option" value="((categoryPath.id=abcat0502000))">Laptops</li>
+				<li class="option" value="((categoryPath.id=pcmcat209400050001))">Cell Phones</li>
+				<li class="option" value="((categoryPath.id=abcat0101000))">Television</li>
+				<li class="option" value="((categoryPath.id=abcat0204000))">Headphones</li>
+			</ul>
+-->
+
+<header>
+
+	<!-- Start Cart Calculation -->  
+	<div class="cart-calc-popup">
+		<h4>YOUR CART</h4>
+		<p> TOTAL ITEMS <span id="cart-overallitems" > 0 </span></p>
+		<p> TOTAL PRICE <span id="netprice"> 0 </span></p>
+		<div class="listItems"> 
+<!--
+			SKU<span id="sku" class="sku"> 0 </span> 
+			QUANTITY <span id="quantity"> 0 </span>
+			PRICE <span id="price"> 0 </span>
+			TOTAL <span id="total-price"> 0</span>
+-->
+		</div>
+		
+<!--
+		<ul id="show-cart">
+            <li>0</li>
+            <li data-name="add-item"></li>
+			<li data-name="substract-item"></li>
+       		<li data-name="emptycart-items"></li>
+        </ul>
+-->
+	</div>
+	
+	<!-- End Cart Calculation -->
+	
+	<!-- Start Banner Section -->
+	<section class="banner flex-col">
+	<!-- Start Cart Icon -->
+	<div class="cart-icon flex flex-just-end">
+		<img src="images/tool.png" alt="cart-icon" />
+	</div>
+	<!-- End Cart Icon -->
+	  
+		<h1>Welcome to BestBuy Store</h1>
+		<h2>Shop Here, For Some Reason</h2>
+		<button>Shop Now</button>
+	</section>
+	<!-- End Banner Section -->
+	
+ </header>  
+     
+<main>
+  
+  <!-- Start BestBuy Description Section -->
+	<section class="description-section flex flex-just-center flex-col">
+		<h3 class="text-align-center">We sell the same stuff as BestBuy, But we're <span class="green">&nbsp;Better</span></h3>
+		<p class="text-align-center padding-small">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et odio nec lorem tempor vehicula. Sed tempor malesuada efficitur. Ut eget rutrum lacus, quis porta metus. Etiam ut nisl nec erat mattis finibus a quis elit. Cras eu diam id augue fringilla tempus. Duis magna lectus, ultrices et lectus quis, euismod porta dolor. Quisque at velit turpis. Pellentesque gravida molestie dictum. Aenean congue, ipsum vel mollis commodo, dui elit ullamcorper massa, sit amet dictum massa mi pulvinar mi.</p>
+	</section>
+  <!-- End BestBuy Description Section -->
+   
+   <!-- Start Product Section -->
+   <div class="category flex flex-just-around flex-align-items-center">
+		<button class="option" value="((categoryPath.id=abcat0502000))">Laptops</button>
+		<button class="option" value="((categoryPath.id=pcmcat209400050001))">Cell Phones</button>
+		<button class="option" value="((categoryPath.id=abcat0101000))">Television</button>
+		<button class="option" value="((categoryPath.id=abcat0204000))">Headphones</button>
+   </div>
+
+	<div id="content">
+	</div>
+	<!-- End Product Section -->
+	
+	<!-- Start Sign Up Section -->
+	<section class="signup flex flex-center flex-col">
+		<h3 class="font-white">Sign up for Updates</h3>
+		<p class="font-white signup-subtitle">We will not stop emailing you</p>
+		<form class="subscribe flex flex-just-between" action="mailto:someone@example.com" method="post">
+				<div class="subscribe-input-email flex"><input type="text" placeholder="Your Email">
+				<span class="button flex"><input type="submit" value="Sign Up"></span></div>
+		</form>
+	</section>
+	<!-- Start Sign Up Section -->
+		
+</main>
+        
+        <script src="js/bundle.js"></script>
+    </body>
+</html>

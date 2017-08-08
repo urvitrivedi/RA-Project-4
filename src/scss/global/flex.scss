@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Index */
+/*	1.	Flex Properties
+*/
+
+	.flex{
+		display: flex;
+	}
+
+	.flex-just-end{
+		justify-content: flex-end;
+	}
+
+	.flex-col{
+		flex-direction: column;
+	}
+
+	.flex-col-wrap{
+		flex-flow: column wrap;
+	}
+
+	.flex-row-wrap{
+		flex-flow: row wrap;
+	}
+
+	.flex-center{
+		justify-content: center;
+		align-items: center;
+	}
+
+	.flex-just-between{
+		justify-content: space-between;
+	}
+
+	.flex-just-around{
+		justify-content: space-around;
+	}
+
+	.flex-just-center{
+		justify-content: center;
+	}
+
+	.flex-align-items-center{
+		align-items: center
+	}
+
+	.flex-wrap{
+		flex-wrap: wrap;
+	}
+
+	.flex-header-grid{
+		flex:1;
+	}
+
+	.flex-order-1{
+		order:1
+	}
+
+	.flex-order-2{
+		order:2;
+	}
+
+	.flex-order-3{
+		order:3;
+	}
+
+	.flex-order-4{
+		order:4;
+	}
+
+	.flex-order-5{
+		order:5;
+	}
+
+	.flex-order-6{
+		order:6;
+	}
+	
+	.flex-grow-1{
+		flex-grow: 1;
+	}
+
+
+
